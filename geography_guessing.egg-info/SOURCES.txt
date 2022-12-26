@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+geography_guessing/main.py
+geography_guessing.egg-info/PKG-INFO
+geography_guessing.egg-info/SOURCES.txt
+geography_guessing.egg-info/dependency_links.txt
+geography_guessing.egg-info/entry_points.txt
+geography_guessing.egg-info/requires.txt
+geography_guessing.egg-info/top_level.txt
