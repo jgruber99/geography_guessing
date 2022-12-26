@@ -15,6 +15,6 @@ setuptools.setup(
     url="https://github.com/gituser/test-tackage",
     license='MIT',
     python_requires='>=3.6',
-    install_requires=["pandas"]
+    install_requires=["pandas"],
     include_package_data=True,
 )
