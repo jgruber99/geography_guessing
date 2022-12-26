@@ -1,4 +1,9 @@
+LICENSE.txt
+MANIFEST.in
 README.md
+country-list.csv
+gamesettings.csv
+list.csv
 setup.cfg
 setup.py
 geography_guessing/main.py
