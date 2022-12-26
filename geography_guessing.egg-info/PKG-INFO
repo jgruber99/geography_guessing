@@ -6,12 +6,10 @@ Home-page: https://github.com/gituser/test-tackage
 Author: Julius Gruber
 Author-email: gruber.julius@gmx.at
 License: MIT
+Description: This is the readme from my repo
+        
+        
+        
 Platform: UNKNOWN
 Requires-Python: >=3.6
 Description-Content-Type: text/markdown
-
-This is the readme from my repo
-
-
-
-
